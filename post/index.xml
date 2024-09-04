@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Артём Олейников</title>
-    <link>https://aioleinikov.github.io/post/</link>
-      <atom:link href="https://aioleinikov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Blog | Сергей Давыдов</title>
+    <link>https://s-davydov.github.io/post/</link>
+      <atom:link href="https://s-davydov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aioleinikov.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://s-davydov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>https://aioleinikov.github.io/post/</link>
+      <link>https://s-davydov.github.io/post/</link>
     </image>
     
     <item>
       <title>Пост по занятиям с 3 по 4 сентября</title>
-      <link>https://aioleinikov.github.io/post/summary2/</link>
+      <link>https://s-davydov.github.io/post/summary2/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://aioleinikov.github.io/post/summary2/</guid>
+      <guid>https://s-davydov.github.io/post/summary2/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;3 и 4 сентября помог одногруппнику написать эссе по истории.
 Изучал принцип работы искусственного интеллекта.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Пост по занятиям с 1 по 3 сентября</title>
-      <link>https://aioleinikov.github.io/post/summary1/</link>
+      <link>https://s-davydov.github.io/post/summary1/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://aioleinikov.github.io/post/summary1/</guid>
+      <guid>https://s-davydov.github.io/post/summary1/</guid>
       <description>&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
 &lt;p&gt;С 1 по 3 был на работе.&lt;/p&gt;
 </description>

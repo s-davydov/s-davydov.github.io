@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Артём Олейников</title>
-    <link>https://aioleinikov.github.io/tags/</link>
-      <atom:link href="https://aioleinikov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Сергей Давыдов</title>
+    <link>https://s-davydov.github.io/tags/</link>
+      <atom:link href="https://s-davydov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aioleinikov.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://s-davydov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Tags</title>
-      <link>https://aioleinikov.github.io/tags/</link>
+      <link>https://s-davydov.github.io/tags/</link>
     </image>
     
   </channel>
